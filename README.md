@@ -28,6 +28,7 @@ cd ~/Downloads/Portfolio-Analytics-main
 
 for windows:
 cd C:\Users\UserName\Downloads\Portfolio-Analytics-main
+
 ```bash
 pip install -r requirements.txt
 
