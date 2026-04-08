@@ -100,16 +100,16 @@ port.to_json("updated_portfolio.json")
 
 | Metric | What It Measures |
 |---|---|
-| **CAGR** | Compound Annual Growth Rate — smoothed annual return |
+| **CAGR** | Compound Annual Growth Rate - smoothed annual return |
 | **Sharpe Ratio** | Excess return per unit of total risk. Higher = better. Above 1.0 is good, above 2.0 is excellent |
 | **Sortino Ratio** | Like Sharpe but only penalizes downside volatility |
 | **Max Drawdown** | Largest peak-to-trough decline. Measures worst-case loss |
 | **Calmar Ratio** | CAGR divided by max drawdown. Higher = better recovery |
-| **VaR (95%)** | Value at Risk — max expected daily loss at 95% confidence |
-| **CVaR (95%)** | Conditional VaR — expected loss in the worst 5% of days |
+| **VaR (95%)** | Value at Risk - max expected daily loss at 95% confidence |
+| **CVaR (95%)** | Conditional VaR - expected loss in the worst 5% of days |
 | **Beta** | Sensitivity to benchmark. 1.0 = moves with market. >1.0 = more volatile |
 | **Alpha** | Excess return above what beta would predict. Positive = outperformance |
-| **HHI** | Herfindahl-Hirschman Index — measures portfolio concentration (0 = diversified, 1 = concentrated) |
+| **HHI** | Herfindahl-Hirschman Index - measures portfolio concentration (0 = diversified, 1 = concentrated) |
 
 ## Project Structure
 
