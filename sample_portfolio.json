@@ -1,0 +1,16 @@
+{
+  "holdings": [
+    {"ticker": "AAPL", "shares": 50, "buy_price": 175.00, "buy_date": "2024-06-15"},
+    {"ticker": "MSFT", "shares": 30, "buy_price": 380.00, "buy_date": "2024-03-10"},
+    {"ticker": "GOOGL", "shares": 40, "buy_price": 140.00, "buy_date": "2024-07-20"},
+    {"ticker": "NVDA", "shares": 25, "buy_price": 120.00, "buy_date": "2024-01-08"},
+    {"ticker": "AMZN", "shares": 35, "buy_price": 180.00, "buy_date": "2024-05-01"},
+    {"ticker": "JPM", "shares": 20, "buy_price": 195.00, "buy_date": "2024-04-12"},
+    {"ticker": "V", "shares": 15, "buy_price": 275.00, "buy_date": "2024-08-05"},
+    {"ticker": "JNJ", "shares": 25, "buy_price": 155.00, "buy_date": "2024-02-20"},
+    {"ticker": "XOM", "shares": 30, "buy_price": 105.00, "buy_date": "2024-06-01"},
+    {"ticker": "BND", "shares": 100, "buy_price": 72.00, "buy_date": "2024-01-15"}
+  ],
+  "benchmark": "SPY",
+  "risk_free_rate": 0.0425
+}
