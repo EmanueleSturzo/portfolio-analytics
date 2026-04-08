@@ -52,6 +52,10 @@ The Streamlit dashboard has 6 tabs:
 - **Dividends** — Total income, portfolio yield, monthly average, income by holding chart
 - **Manage Portfolio** — Add/remove holdings, save/load JSON, download file
 
+## Demo
+
+![demo](media/PortfolioAnalytics.gif)
+
 ## Portfolio JSON Format
 
 ```json
