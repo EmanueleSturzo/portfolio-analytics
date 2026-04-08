@@ -19,6 +19,15 @@ A Python portfolio tracker and risk analytics dashboard. Load a portfolio from J
 
 ## Quick Start
 
+# Clone the repo
+git clone https://github.com/EmanueleSturzo/Portfolio-Analytics.git
+(download zip file and extract)
+
+for Mac:
+cd ~/Downloads/Portfolio-Analytics-main
+
+for windows:
+cd C:\Users\UserName\Downloads\Portfolio-Analytics-main
 ```bash
 pip install -r requirements.txt
 
